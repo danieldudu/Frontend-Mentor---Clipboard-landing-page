@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/danieldudu/Frontend-Mentor---Clipboard-landing-page)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-clipboard-landing-page-iota.vercel.app/)
 
 ### Built with
 
